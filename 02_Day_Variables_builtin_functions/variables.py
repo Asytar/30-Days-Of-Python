@@ -1,12 +1,12 @@
 
-# Variables in Python
+# Day 2: 30 Days of python programming
 
-first_name = 'Asabeneh'
-last_name = 'Yetayeh'
-country = 'Finland'
-city = 'Helsinki'
-age = 250
-is_married = True
+first_name = 'Asytar'
+last_name = 'Azizi'
+country = 'Malaysia'
+city = 'Negeri_Sembilan'
+age = 18
+is_married = False
 skills = ['HTML', 'CSS', 'JS', 'React', 'Python']
 person_info = {
     'firstname':'Asabeneh', 
